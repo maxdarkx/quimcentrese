@@ -1,0 +1,101 @@
+<resources>
+    <string name="app_name">QuimCentrese</string>
+    <integer-array name="panelpics">
+        <item>@drawable/estructura1</item>
+        <item>@drawable/estructura2</item>
+        <item>@drawable/estructura3</item>
+        <item>@drawable/estructura4</item>
+        <item>@drawable/estructura5</item>
+        <item>@drawable/estructura6</item>
+        <item>@drawable/estructura7</item>
+        <item>@drawable/estructura8</item>
+        <item>@drawable/estructura9</item>
+        <item>@drawable/estructura10</item>
+        <item>@drawable/estructura11</item>
+        <item>@drawable/estructura12</item>
+        <item>@drawable/estructura13</item>
+        <item>@drawable/estructura14</item>
+        <item>@drawable/estructura15</item>
+        <item>@drawable/estructura16</item>
+        <item>@drawable/estructura17</item>
+        <item>@drawable/estructura18</item>
+        <item>@drawable/estructura19</item>
+        <item>@drawable/estructura20</item>
+        <item>@drawable/estructura21</item>
+        <item>@drawable/nombre1</item>
+        <item>@drawable/nombre2</item>
+        <item>@drawable/nombre3</item>
+        <item>@drawable/nombre4</item>
+        <item>@drawable/nombre5</item>
+        <item>@drawable/nombre6</item>
+        <item>@drawable/nombre7</item>
+        <item>@drawable/nombre8</item>
+        <item>@drawable/nombre9</item>
+        <item>@drawable/nombre10</item>
+        <item>@drawable/nombre11</item>
+        <item>@drawable/nombre12</item>
+        <item>@drawable/nombre13</item>
+        <item>@drawable/nombre14</item>
+        <item>@drawable/nombre15</item>
+        <item>@drawable/nombre16</item>
+        <item>@drawable/nombre17</item>
+        <item>@drawable/nombre18</item>
+        <item>@drawable/nombre19</item>
+        <item>@drawable/nombre20</item>
+        <item>@drawable/nombre21</item>
+        <item>@drawable/bonus1</item>
+        <item>@drawable/bonus2</item>
+        <item>@drawable/bonus3</item>
+        <item>@drawable/bonus4</item>
+        <item>@drawable/bonus5</item>
+        <item>@drawable/bonus6</item>
+
+
+    </integer-array>
+
+    <integer-array name="panelBonus">
+        <item>@drawable/estructurab1</item>
+        <item>@drawable/estructurab2</item>
+        <item>@drawable/estructurab3</item>
+        <item>@drawable/estructurab4</item>
+        <item>@drawable/estructurab5</item>
+        <item>@drawable/estructurab6</item>
+        <item>@drawable/estructurab7</item>
+        <item>@drawable/estructurab8</item>
+        <item>@drawable/nombreb1</item>
+        <item>@drawable/nombreb2</item>
+        <item>@drawable/nombreb3</item>
+        <item>@drawable/nombreb4</item>
+        <item>@drawable/nombreb5</item>
+        <item>@drawable/nombreb6</item>
+        <item>@drawable/nombreb7</item>
+        <item>@drawable/nombreb8</item>
+
+ </integer-array>
+
+
+    <string name="sButtonClose">Cerrar</string>
+    <string name="sBonus2">KARAOKE</string>
+    <string name="sDesc2">Desafia a otro equipo a un duelo de Karaoke y quien lo haga mejor ganara el premio</string>
+    <string name="sB2Points">El equipo ganador podrá decidir si suma 10 puntos a su equipo o le resta 10 puntos al equipo contrario</string>
+
+    <string name="sBonus3">COREOGRAFIA</string>
+    <string name="sDesc3">Desafia a otro equipo a un duelo de Coreografía y quien lo haga mejor ganará el premio.</string>
+    <string name="sB3Points">El equipo ganador podrá decidir si intercambia su puntaje con el otro equipo o le resta 5 puntos al equipo contrario</string>
+
+    <string name="sBonus4">GALLINA CIEGA</string>
+    <string name="sDesc4">Un integrante del grupo intentará dibujar una estructura desorientandolo y vendandole los ojos y el resto del equipo debera acertar la estructura.</string>
+    <string name="sB4Points">Si el equipo logró adivinar la estructura se le sumaran 8 puntos</string>
+
+    <string name="sBonus5">POLIMEROS</string>
+    <string name="sDesc5">El grupo tendra 3 minutos para conseguir 3 polimeros diferentes e identificarlos.</string>
+    <string name="sB5Points">Si el equipo logró reunir e identificar los 3 polimeros en el tiempo dado se le sumaran 8 puntos</string>
+
+    <string name="sBonus6">TELEFONO ROTO</string>
+    <string name="sDesc6">A un integrante del grupo se le dira el nombre de un compuesto quimico que debera transmitir a su compañero para ser retransmitido.</string>
+    <string name="sB6Points">Si el ultimo integrante del equipo coincidió en el nombre transmitido por el primer integrante su equipo sumará 10 puntos </string>
+    <string name="sB1Desc">Relaciona una estructura con su nombre correspondiente</string>
+    <string name="sB1Prize">Si lograron emparejar una estructura con su nombre comun correspondiente obtendrán 15 puntos</string>
+
+
+</resources>

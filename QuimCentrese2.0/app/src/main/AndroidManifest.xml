@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.udea.juancarlos.quimcentrese">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/q_logo"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".MainActivity"
+            android:screenOrientation="landscape">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".BonusActivity1" />
+        <activity android:name=".BonusActivity2" />
+        <activity android:name=".BonusActivity3" />
+        <activity android:name=".BonusActivity4" />
+        <activity android:name=".BonusActivity5" />
+        <activity android:name=".BonusActivity6"></activity>
+    </application>
+
+</manifest>

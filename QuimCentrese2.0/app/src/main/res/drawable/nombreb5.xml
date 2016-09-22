@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/selected"
+        android:state_selected="true"
+        android:drawable="@mipmap/c5"/> <!-- active -->
+
+
+    <item
+        android:id="@+id/ddefault"
+        android:state_selected="false"
+        android:drawable="@mipmap/q_image_red" /> <!-- non active -->
+
+
+ </selector>
+

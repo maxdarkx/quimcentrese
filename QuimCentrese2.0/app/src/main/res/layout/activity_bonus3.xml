@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="20dp"
+    tools:context="com.udea.juancarlos.quimcentrese.BonusActivity3">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/sBonus3"
+        android:id="@+id/textViewb3"
+        android:gravity="center_horizontal"
+        android:layout_gravity="center_horizontal"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="55dp"
+        style="@style/TextStyle">
+    </TextView>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/sDesc3"
+        android:id="@+id/textViewDesc3"
+        android:gravity="center_horizontal"
+        android:layout_gravity="center_horizontal"
+        android:layout_below="@+id/textViewb3"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="71dp"
+        style="@style/TextStyle">
+</TextView>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/infoButtonB3"
+        android:layout_gravity="center_horizontal"
+        android:background="@android:drawable/ic_menu_myplaces"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true" />
+
+</RelativeLayout>
